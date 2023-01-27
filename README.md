@@ -1,0 +1,2 @@
+# sumOfDigitsTillitGetstoOneDigits
+Created with CodeSandbox
